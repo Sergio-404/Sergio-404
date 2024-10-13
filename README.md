@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a personal page for myself.
   
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python 🐍
   
 - ❓ Ask me about stuff; probably won't give you a good answer, but definitely will give you attention.
   
